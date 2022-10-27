@@ -1,0 +1,31 @@
+.card-container {
+    margin: 30px auto;
+    width: 300px;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    backdrop-filter: blur(6px);
+}
+
+.info-paragraph {
+    color: aliceblue;
+}
+
+.cityName {
+    color: aliceblue;
+}
+
+.bottom {
+    margin-top: 10px;
+    
+}
+.parameter-label{
+    text-align: center;
+    color: aliceblue;
+}
+.details{
+    text-align: center;
+}
+.parameter-row{
+    margin: 10px 0;
+}
